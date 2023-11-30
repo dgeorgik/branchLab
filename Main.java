@@ -3,5 +3,6 @@
          System.out.println("dev-branch : Commit 1");
          System.out.println("dev-branch : Commit 2");
          System.out.println("dev-branch : Commit 3");
+         System.out.println("dev-branch : Commit 4");
      }
  }
